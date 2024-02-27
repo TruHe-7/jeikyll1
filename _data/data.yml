@@ -13,18 +13,18 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: aftruhe@gmail,com
+    phone: 300121232
+    timezone: Bogotá/Colombi
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: AndrésFTru
+    xing: AFTH
+    github: TruHe-7
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: N/A
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@AFTH'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,22 +33,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
         - idiom: French
-          level: Professional
+          level: B2
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: B2
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Tenis
           link:
 
-        - item: Snowboarding
+        - item: Basket
           link:
 
         - item: Cooking
@@ -64,11 +64,11 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Ing Mecatronic/System
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Pregrade
+        university: Pontificia Universidad Javeriana
+        time: 2022-2027
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,7 +90,7 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Director BMW IA/Robotics
     info:
       - role: Lead Developer
         time: 2015 - Present
